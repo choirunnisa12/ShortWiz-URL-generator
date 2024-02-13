@@ -1,0 +1,1 @@
+# ShortWiz-URL-generator
